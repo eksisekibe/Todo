@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "029f5bd8-8a23-4b93-8878-225237ae07ef": {
+      "ProjectGuid": "029f5bd8-8a23-4b93-8878-225237ae07ef",
+      "DisplayName": "TodoAPI",
+      "ColorIndex": 0
+    },
+    "aa4907c6-0b78-4b10-9b25-1f94e629dda2": {
+      "ProjectGuid": "aa4907c6-0b78-4b10-9b25-1f94e629dda2",
+      "DisplayName": "Todo.Data",
+      "ColorIndex": 1
+    },
+    "a192a951-a150-496b-bf7a-ef1d517f24f2": {
+      "ProjectGuid": "a192a951-a150-496b-bf7a-ef1d517f24f2",
+      "DisplayName": "Todo.Data",
+      "ColorIndex": 2
+    },
+    "d0c02741-121f-43f8-b0fc-c247a26b5c06": {
+      "ProjectGuid": "d0c02741-121f-43f8-b0fc-c247a26b5c06",
+      "DisplayName": "Todo.Entity",
+      "ColorIndex": 3
+    },
+    "18f57b5e-4fe5-4ebc-8bea-77299585a7d1": {
+      "ProjectGuid": "18f57b5e-4fe5-4ebc-8bea-77299585a7d1",
+      "DisplayName": "Todo.Data",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

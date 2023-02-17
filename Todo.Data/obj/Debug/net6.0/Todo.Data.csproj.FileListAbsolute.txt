@@ -1,0 +1,15 @@
+C:\Users\Semafor\Desktop\Todo\Todo.Data\bin\Debug\net6.0\Todo.Data.deps.json
+C:\Users\Semafor\Desktop\Todo\Todo.Data\bin\Debug\net6.0\Todo.Data.dll
+C:\Users\Semafor\Desktop\Todo\Todo.Data\bin\Debug\net6.0\ref\Todo.Data.dll
+C:\Users\Semafor\Desktop\Todo\Todo.Data\bin\Debug\net6.0\Todo.Data.pdb
+C:\Users\Semafor\Desktop\Todo\Todo.Data\bin\Debug\net6.0\Todo.Entity.dll
+C:\Users\Semafor\Desktop\Todo\Todo.Data\bin\Debug\net6.0\Todo.Entity.pdb
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.AssemblyReference.cache
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfoInputs.cache
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfo.cs
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CopyComplete
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.dll
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\ref\Todo.Data.dll
+C:\Users\Semafor\Desktop\Todo\Todo.Data\obj\Debug\net6.0\Todo.Data.pdb
